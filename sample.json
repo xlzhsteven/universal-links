@@ -1,0 +1,30 @@
+{
+	"items": [{
+			"itemName": "Lunch small salmon",
+			"price": 12.90
+		},
+		{
+			"itemName": "Lunch salmon",
+			"price": 14.50
+		},
+		{
+			"itemName": "Lunch Fettuccine Carrabba",
+			"price": 10.90
+		},
+		{
+			"itemName": "Lunch Strawberry Salad",
+			"price": 11.50
+		},
+		{
+			"itemName": "Lunch House Salad Add On",
+			"price": 2.00
+		},
+		{
+			"itemName": "Cold Beverage",
+			"price": 2.80
+		}
+	],
+	"subtotal": 54.6,
+	"tax": 4.91,
+	"total": 59.51
+}
