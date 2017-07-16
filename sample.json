@@ -12,9 +12,17 @@
 			"price": 6.95
 		},
 		{
+			"itemName": "Kids Sirley Temple",
+			"price": 0.00
+		},
+		{
 			"itemName": "Kids Sliders",
 			"price": 6.95
-		}
+		},
+		{
+			"itemName": "Kids Bev w/Meal",
+			"price": 0.00
+		},
 	],
 	"subtotal": 56.8,
 	"tax": 5.25,
