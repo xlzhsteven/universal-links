@@ -5,6 +5,10 @@
 			{
 				"appID": "3VM8YHF38X.com.paypal.PayPalDonation.PayPalDonationTestApp",
 				"paths": [ "/fundraiser/charity/*"]
+			},
+			{
+				"appID": "MQ3H79F34A.com.xiaolozhang.sample",
+				"paths": [ "*"]
 			}
 		]
 	}
